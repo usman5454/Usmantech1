@@ -98,8 +98,8 @@ jalan("   \033[1;93m Welcome to USMAN TECH ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mUSMAN\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "USMAN"
-CorrectPassword = "USMAN"
+CorrectUsername = "USMANTECH"
+CorrectPassword = "USMANTECH"
 
 
 loop = 'true'
